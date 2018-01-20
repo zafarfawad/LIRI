@@ -104,7 +104,7 @@ if (userAction === "do-what-it-says"){
 
         console.log(dataArr);
 
-        dataArr[0] = process.argv[]
+        // dataArr[0] = process.argv[]
 
        
 
